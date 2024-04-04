@@ -5,7 +5,7 @@
 This repository serves as a platform for the implementation and documentation of various data structures and algorithms.
 
 ## Introduction:
-The focus here lies in problem-solving through the lens of data structures and algorithms.
+The aim is to gain thorough undersnading of data structures and algorithm in javascript for efficient peoblem solving.
 
 ## Data Structures:
 Data manipulation, a fundamental aspect of coding, revolves around managing values and their relationships. Data structures offer different ways of organizing data in computers, categorizing into primitive and non-primitive types.
